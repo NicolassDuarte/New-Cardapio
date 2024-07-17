@@ -63,4 +63,4 @@ cardapio.templates = {
               </div>
   `,
 };
-//template do item do carrinho
+//template do item do carrinho.
